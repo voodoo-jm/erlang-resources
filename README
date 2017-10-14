@@ -30,3 +30,4 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [restc](https://github.com/kivra/restclient) - An Erlang REST client
 * [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (uses restc)
+

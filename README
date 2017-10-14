@@ -11,3 +11,16 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
     - [HTTP](#http)
     - [Testing](#testing)
     - [Logging](#logging)
+    - [Monitoring](#monitoring)
+    - [Deployment](#deployment)
+    - [Distributed Systems](#distributed-systems)
+    - [Code Analysis](#code-analysis)
+    - [Build Tools](#build-tools)
+    - [Geolocation](#geolocation)
+    - [Debugging](#debugging)
+    - [Actors](#actors)
+## Code Analysis
+*Libraries and tools for analysing, parsing and manipulation codebases.*
+
+* [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs.
+* [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.

@@ -24,3 +24,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [Concuerror](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs.
 * [eflame](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
+
+## Book Reading
+*Erlang-releated reading materials.*
+
+* [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html) - The Joy of Erlang; Or, How To Ride A Toruk A fast track introduction to Erlang that teaches the language by walking through a few example projects.
